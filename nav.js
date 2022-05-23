@@ -7,7 +7,7 @@ homeBtn.addEventListener("click", function(){
 })
 
 githubBtn.addEventListener("click", function(){
-    window.location.assign("  ");
+    window.location.assign("https://github.com/thenameiskrishna/Sudoku");
 })
 
 linkedinBtn.addEventListener("click", function(){
